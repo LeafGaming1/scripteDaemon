@@ -3,7 +3,6 @@
 ## COMPLETELY (i think) Open-Source
 
 > [!NOTE]
-
 > TL;DR; for the license:
 > You **MUST**:
 > ## Keep the copyright notice & The full BSD 3-Clause license text in all distributions
