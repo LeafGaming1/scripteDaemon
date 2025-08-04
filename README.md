@@ -1,6 +1,6 @@
 # scripteDaemon
 ### Almost all the roblox scripts available, listed as keyed, paid or free!
-## COMPLETELY (i think) Open-Source
+## Open-Source (except for the Loader)
 <!-- TODO: Add scripts and script loader -->
 
 > [!NOTE]
