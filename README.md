@@ -5,7 +5,7 @@
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LeafGaming1/scripteDaemon/Loader.lua"))()
 ```
-<!-- TODO: Add scripts and script loader -->
+<!-- TODO: Add scripts -->
 
 > [!NOTE]
 > # TL;DR; for the license:
