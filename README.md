@@ -12,7 +12,7 @@
 > ## You **CANNOT**
 > #### Use my or the contributors' name to endorse your derivative products without permission
 > #### Make any warranty claims against me or the contributors
-> #### Hold me liable for any damages, bugs or issues
+> #### Hold me or the contributors liable for any damages, bugs or issues
 > ## You **CAN**
 > #### Use the code commercially
 > #### Modify the code
