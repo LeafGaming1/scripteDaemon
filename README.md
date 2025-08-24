@@ -10,7 +10,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LeafGaming1/scripteDa
 ## -----------------------
 Basic: Create a issue on this github with the script name and link
 
-Verified: share a screen with me on discord executing the script to prove it is not shady OR show me the source (I won't share it)
+Verified: DM me for details on how to verify
 
 Featured: DM me and we can discuss the price (like a key to a different script, donation, robux, etc.)
 
