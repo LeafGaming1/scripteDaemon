@@ -5,7 +5,7 @@
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LeafGaming1/scripteDaemon/main/Loader.lua"))()
 ```
-
+# note: i forgot to turn off debug so console will be filled with stuff xd
 #### Script creation policies
 ## -----------------------
 Basic: Create a issue on this github with the script name and link
