@@ -1,5 +1,5 @@
 # scripteDaemon
-### Almost all the roblox scripts available, listed as keyed, paid or free!
+### Roblox scripts listed as keyed, paid, free or universal
 ## Loader isn't open source skidders!
 # use this as the loader
 ```lua
